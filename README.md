@@ -3,8 +3,8 @@ repo for my course homework and slides in NCKU
 include CSIE and ES(一年級)  
 ## notice  
 - in CSIE:  
-  - PD1 is the same as repo PD  
-  - data structure's homework is the same as repo DS  
+  - PD1 is the same as repo [PD](https://github.com/auyu0408/PD)
+  - data structure's homework is the same as repo [DS](https://github.com/auyu0408/DS)  
   - lack of `計算機概論`,`程式設計二`,`線性代數`（已抵免科目)  
 - if you have sth want to add, contact `datealive102164@gmail.com` or fork it then PR me  
 - 發PR的時候請參考`CSIE/二下`內格式  
