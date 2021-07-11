@@ -1,0 +1,79 @@
+<HTML>
+<HEAD>
+<SPAN style="color:#00CACA;font-size:20pt;"><strong>自我介紹</strong></SPAN>
+<TITLE>E94086107</TITLE>
+</HEAD>
+
+<BODY>
+<P>
+<img style="float:right;"src="pic1.jpg" width="210.75"height ="281.25" />
+<BR/><SPAN style="padding:10pt;line-height:20pt;"><strong>基本資料</strong></SPAN>
+
+<TABLE>
+<BR/>
+<table width="200"border="1">
+
+<TR>
+<TD><SPAN style="line-height:20pt;">名字</SPAN></TD>
+<TD><SPAN style="color:#C6A300;line-height:20pt;"><strong>張娟鳴</strong></SPAN></TD>
+</TR>
+
+<TR>
+<TD><SPAN style="line-height:20pt;">暱稱</TD>
+<TD><strong>金魚</strong></SPAN></TD>
+</TR>
+
+<TR>
+<TD><SPAN style="line-height:20pt;">生日</SPAN></TD>
+<TD><SPAN style="line-height:20pt;"><strong>4/8</strong></SPAN></TD>
+</TR>
+
+<TR>
+<TD><SPAN style="line-height:20pt;">興趣</SPAN></TD>
+<TD><SPAN style="line-height:20pt;"><strong>聽音樂、看書</strong></SPAN></TD>
+</TR>
+
+<TR>
+<TD><SPAN style="line-height:20pt;">專長</SPAN></TD>
+<TD><SPAN style="color:#C6A300;line-height:20pt;"><strong>塗鴉、騎車</strong></SPAN></TD>
+</TR>
+
+<TR>
+<TD><SPAN style="line-height:20pt;">個性</SPAN></TD>
+<TD><SPAN style="line-height:20pt;"><strong>直率、自律嚴謹</strong></SPAN></TD>
+</TR>
+
+<TR>
+<TD><SPAN style="line-height:20pt;">喜歡的東西</SPAN></TD>
+<TD><SPAN style="color:#C6A300;line-height:20pt;"><strong>貓、抱枕</strong></SPAN></TD>
+</TR>
+
+<TR>
+<TD><SPAN style="line-height:20pt;">討厭的東西</SPAN></TD>
+<TD><SPAN style="line-height:20pt;"><strong>荔枝、椿象</strong></SPAN></TD>
+</TR>
+
+</TABLE>
+</P>
+
+<P>
+<FORM action = "mailto:datealive102164@gmail.com?subject=hello" method="post" enctype="text/plain" >
+<BR/><SPAN style="padding:10pt;line-height:20pt;">聯絡我</SPAN>
+<BR/><SPAN style="line-height:30pt;">名字: <INPUT type="text" name="UserName"></SPAN>
+<BR/><SPAN style="line-height:30pt;">email:<INPUT type="text" name="Email"></SPAN>
+<BR/><SPAN style="line-height:30pt;">想說的話:</SPAN>
+<BR/><textarea name="context"></textarea>
+<BR/><INPUT type="submit" value=" 送出">
+</FORM>
+</P>
+
+<P>
+<BR/>點擊前往成大工科系官網:
+<BR/>
+<A HREF="http://www.es.ncku.edu.tw/esncku/zh/"text-direction:none;>
+CLICK
+</A>
+<BR/>END
+</P>
+</BODY>
+</HTML>
