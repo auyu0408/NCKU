@@ -1,6 +1,6 @@
 # OS2021_HW1
 ## Enviroment  
-Linux version: 4.15.0-159-  
+Linux version: 4.15.0-159-generic  
 you can use githook to check your coding style, all script in script.example  
 Make app and module separately, check Makefile.example   
 ## Setup  
