@@ -1,5 +1,8 @@
 # MPI HW2
 
+## Question
+https://hackmd.io/t3JkWRjnQN2RxYMuUri84Q
+
 ## What have you done
 ### Problem1
 主要是自己做了分割、計算完再合併，其他部份是可以用原本程式碼的。
