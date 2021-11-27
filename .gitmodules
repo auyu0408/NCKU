@@ -1,0 +1,6 @@
+[submodule "CSIE/三上/OS/hw1"]
+	path = CSIE/三上/OS/hw1
+	url = git@github.com:auyu0408/OS_kernal_module.git
+[submodule "CSIE/三上/OS/hw2"]
+	path = CSIE/三上/OS/hw2
+	url = git@github.com:auyu0408/simple-kvstore.git
