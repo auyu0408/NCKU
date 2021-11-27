@@ -4,3 +4,9 @@
 [submodule "CSIE/三上/OS/hw2"]
 	path = CSIE/三上/OS/hw2
 	url = git@github.com:auyu0408/simple-kvstore.git
+[submodule "CSIE/二上/data_structure/2020"]
+	path = CSIE/二上/data_structure/2020
+	url = git@github.com:auyu0408/DS.git
+[submodule "CSIE/一上/PD1"]
+	path = CSIE/一上/PD1
+	url = git@github.com:auyu0408/PD.git
