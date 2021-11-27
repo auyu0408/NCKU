@@ -1,6 +1,0 @@
-.vscode
-app
-module/*
-!module/my_info.c
-!module/my_info.h
-!module/Makefile
