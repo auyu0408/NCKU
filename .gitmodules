@@ -10,6 +10,6 @@
 [submodule "CSIE/一上/PD1"]
 	path = CSIE/一上/PD1
 	url = git@github.com:auyu0408/PD.git
-[submodule "CSIE/三上/MPI/CSIE/三上/MPI/hw4"]
-	path = CSIE/三上/MPI/CSIE/三上/MPI/hw4
+[submodule "CSIE/三上/MPI/hw4"]
+	path = CSIE/三上/MPI/hw4
 	url = git@github.com:auyu0408/MPI_hw4.git
