@@ -1,0 +1,9 @@
+#
+#Wed Dec 29 22:31:08 CST 2021
+default.languagetoolchain.dir=/opt/microchip/xc8/v2.32/bin
+configurations-xml=c8b45c69316f16c2fca5fa615953c460
+com-microchip-mplab-nbide-embedded-makeproject-MakeProject.md5=37eccb08230908d044ad3fe14e24ea9a
+default.languagetoolchain.version=2.32
+host.platform=linux
+conf.ids=default
+default.com-microchip-mplab-nbide-toolchainXC8-XC8LanguageToolchain.md5=5fdf03d5ed941dd849268ab6ecd38ef0
