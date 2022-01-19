@@ -16,3 +16,6 @@
 [submodule "CSIE/三上/OS/hw3"]
 	path = CSIE/三上/OS/hw3
 	url = git@github.com:auyu0408/ThreadScheduling.git
+[submodule "CSIE/三上/OS/hw4"]
+	path = CSIE/三上/OS/hw4
+	url = git@github.com:auyu0408/MemoryManager.git
