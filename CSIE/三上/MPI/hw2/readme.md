@@ -1,4 +1,6 @@
 # MPI HW2
+- 因為執行環境更新關係，若 problem 1無法直接使用且錯誤如下，其主要原因為**scatterv 之send buffer和receieve buffer不能是相同位置**，須使用者自行增加變數來處理 (22/11/03)
+  - ![](https://i.imgur.com/LUwOiVZ.png)
 
 ## Question
 https://hackmd.io/t3JkWRjnQN2RxYMuUri84Q
