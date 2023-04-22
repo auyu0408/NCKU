@@ -19,9 +19,6 @@
 [submodule "CSIE/三上/OS/hw4"]
 	path = CSIE/三上/OS/hw4
 	url = git@github.com:auyu0408/MemoryManager.git
-[submodule "CSIE/四上/Linux2022"]
-	path = CSIE/四上/Linux2022
-	url = git@github.com:auyu0408/Linux2022.git
 [submodule "CSIE/三下/compiler/Compiler_Lex"]
 	path = CSIE/三下/compiler/Compiler_Lex
 	url = git@github.com:auyu0408/Compiler_Lex.git
@@ -31,3 +28,6 @@
 [submodule "CSIE/三下/compiler/Compiler_Code_Generator"]
 	path = CSIE/三下/compiler/Compiler_Code_Generator
 	url = git@github.com:auyu0408/Compiler_Code_Generator.git
+[submodule "CSIE/四上/CSIE/四上"]
+	path = CSIE/四上/CSIE/四上
+	url = git@github.com:auyu0408/Linux2022.git
